@@ -1,4 +1,4 @@
-package com.leeyumo.learning.algorithms;
+package com.leeyumo.learning.algorithms.sort;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package com.leeyumo.learning.algorithms;
+package com.leeyumo.learning.algorithms.sort;
 
 public class HeapSort {
     /**
