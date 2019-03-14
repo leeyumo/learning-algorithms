@@ -47,7 +47,7 @@ public class QuickSort {
                     toSort[j + 1] = toSort[j];
                 }
                 toSort[middleIndex] = temp;
-                middleIndex = i;
+                middleIndex += 1;
             }
         }
         if (middleIndex > (startIndex + 1)) {
